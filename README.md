@@ -1,2 +1,2 @@
 # PORTAFOLIO
-Este es mi portafolio de proyectos hechos por mi y cada vez voy escalando en la programacion rumbo a un full stack senior todos los proyectos estan bien explicados y si hay algun error estoy encantado de saberlo Muchas gracias
+Hola soy omar tengo 16 años y este es mi portafolio de proyectos hechos por mi y cada vez voy escalando en la programacion rumbo a un full stack senior todos los proyectos estan bien explicados y si hay algun error estoy encantado de saberlo Muchas gracias // This portfolio showcases my projects and my progress toward becoming a senior full-stack developer. I welcome feedback and suggestions. Thank you!
